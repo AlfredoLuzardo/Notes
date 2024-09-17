@@ -1,0 +1,18 @@
+
+- Instance variables are private
+- Most instance variables are final
+- Always use clear names for data and methods
+- Always include units in variable names
+- JavaDoc the following:  
+	- the class  
+	- non-private constants  
+	- non-private constructors  
+	- non-private methods
+- User private static validation methods
+- Use constructor chaining to avoid code duplication
+- local variables should be final
+- Declare and initialize variables in separate lines
+- Use initializer blocks for complex logic
+- Compare objects (including Strings) using .equals()
+- Never use magic numbers; use SYMBOLIC_CONSTANTS instead
+- Use the principle of least privilege: make everything private and final if you can; if not, make it as restricted as you can while still allowing the application to run
