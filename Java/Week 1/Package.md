@@ -1,7 +1,7 @@
 - Group of related classes
 - Always organize work into packages
 
-- Package naming coventions:
+- Package naming conventions:
 	- Lowercase
 	- Reverse domain name
 	- Meaningful

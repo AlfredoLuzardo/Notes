@@ -1,4 +1,4 @@
-**DIAGRAMS:**
+**PAGES:**
 chapter 1: page 5*, 18, 50*, and JVN
 chapter 2: 57, 66, 75*, 82
 chapter 3: 161b*, 164, 165, 167, 173, 176, 193*, 195
@@ -11,13 +11,10 @@ chapter 7 or whatever resources you want: ASM (team of 3: presentation: ask lab 
 - Backwards Compatibility
 - Simpler
 
-**John von Neumann**
-
-
 **Definitions**:
 - **Bit**: 0 or 1 
 - **Byte**: 8-bit word
-- **Word**: Determined by the register 
+- **Word**: 64 bits probably, Determined by the register 
 - **Register**: CPU memory that by definition stores a single word
 
   **64-bit computers vs 32-bit computers:** 2^64 = 2^32 * 2^32

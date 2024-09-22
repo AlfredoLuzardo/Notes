@@ -1,0 +1,1 @@
+- A set of multiple hardware devices that FDE instructions in parallel, and in series, in order to maximize instructional bandwidth
