@@ -1,0 +1,5 @@
+- private or?   Consider whether it should be overridable 
+- final or?       Consider whether it should be overridable or extended or changed
+- abstract or?
+- static or?
+- class or?       INTERFACE

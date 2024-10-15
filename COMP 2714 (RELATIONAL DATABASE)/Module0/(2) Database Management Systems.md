@@ -21,3 +21,4 @@
 - **DBMS**; the software that defines, constructs, and manipulates a database
 - **The Applications**; The programs (in specific languages) that manipulate the database
 - **The Users**; People who use the database system, through the DBMS interface or through application programs
+

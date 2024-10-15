@@ -16,3 +16,16 @@
 
 **Example 2**:
 	a) How many 16 bit strings start with 1101?
+![[Drawing 2024-09-22 13.06.09.excalidraw]]
+	b) How many 16 bit strings do not start with 1101
+![[Drawing 2024-09-22 13.16.00.excalidraw]]
+
+**Example 3**: 
+- How many times is print statement executed?
+![[Pasted image 20240922132139.png]]
+
+![[Drawing 2024-09-22 13.21.45.excalidraw]]
+
+![[Pasted image 20240922132410.png]]
+![[Drawing 2024-09-22 13.23.29.excalidraw]]
+![[Pasted image 20240922133428.png]]
